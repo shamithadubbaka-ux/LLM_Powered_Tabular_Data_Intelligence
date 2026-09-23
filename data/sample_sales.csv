@@ -1,0 +1,13 @@
+order_id,order_date,region,category,product,segment,units,revenue,profit
+1,2026-01-02,South,Technology,Laptop,Consumer,2,180000,36000
+2,2026-01-08,North,Furniture,Chair,Corporate,5,45000,9000
+3,2026-01-15,West,Office,Paper,Consumer,20,12000,2400
+4,2026-02-03,South,Technology,Monitor,4,80000,16000
+5,2026-02-11,East,Furniture,Desk,Consumer,3,75000,15000
+6,2026-02-18,North,Technology,Laptop,Corporate,1,90000,18000
+7,2026-03-04,West,Office,Printer,Corporate,2,50000,7500
+8,2026-03-12,South,Furniture,Chair,Consumer,8,72000,14400
+9,2026-03-21,East,Technology,Monitor,Consumer,5,100000,20000
+10,2026-04-05,North,Office,Paper,Consumer,30,18000,3600
+11,2026-04-17,West,Technology,Laptop,Corporate,2,180000,27000
+12,2026-04-28,South,Furniture,Desk,Corporate,4,100000,22000
